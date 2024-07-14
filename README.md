@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Fathima Haris!
 
-<!--
-**fvthima/fvthima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am a dedicated computer science student passionate about leveraging technology to solve complex problems. Currently, I am pursuing my bachelor's degree with a specialization in big data.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on multiple projects related to data science and software development.
+- 🌱 I’m currently learning advanced data analysis techniques and machine learning algorithms.
+- 👯 I’m looking to collaborate on open source projects related to data science and machine learning.
+- 💬 Ask me about anything related to R, Python, Java, and SQL.
+- 📫 How to reach me: [Email](mailto:fathimaslp@gmail.com)
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/fathimaharis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills
+- **Programming Languages**: C++, Java, Python, JavaScript, HTML, CSS, SQL, R
+- **Tools**: Node.js, MySQL, IBM Cloud, Wireshark, Visual Studio Code, Eclipse, IntelliJ IDEA, Cisco Packet Tracer, Figma
+- **Data Analysis**: R, SQL, data collection, data visualization, predictive modeling, statistical analysis, database management, data science
+
+### Projects
+- [Time-Series-Forecasting](https://github.com/fvthima/Time-Series-Forecasting): Time Series Forecasting of Sales Data using R
+- [Adult-Clustering-Analysis](https://github.com/fvthima/Adult-Clustering-Analysis): Clustering analysis of the 'Adult' dataset from the UCI Machine Learning Repository
+- [Patient-Health-Monitoring](https://github.com/fvthima/Patient-Health-Monitoring): Real-Time Patient Health Monitoring using Hidden Markov Models (HMM)
+- [Seat-Reservation-System](https://github.com/fvthima/Seat-Reservation-System): Development of a seat reservation system using Java
+- [Eliore-Eline-Inc-Law-Firm-Database](https://github.com/fvthima/Eliore-Eline-Inc-Law-Firm-Database): Creation of a database for the Eliore & Eline Inc Law Firm with SQL
+
+### Contact
+For any questions or feedback, please contact me at [fathimaslp@gmail.com](mailto:fathimaslp@gmail.com).
