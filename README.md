@@ -16,6 +16,7 @@ I am a dedicated computer science student passionate about leveraging technology
 - **Data Analysis**: R, SQL, data collection, data visualization, predictive modeling, statistical analysis, database management, data science
 
 ### Projects
+- [Fraud Detection System](https://github.com/fvthima/Fraud-Detection-System): A machine learning model to detect fraudulent credit card transactions
 - [Time-Series-Forecasting](https://github.com/fvthima/Time-Series-Forecasting): Time Series Forecasting of Sales Data using R
 - [Adult-Clustering-Analysis](https://github.com/fvthima/Adult-Clustering-Analysis): Clustering analysis of the 'Adult' dataset from the UCI Machine Learning Repository
 - [Patient-Health-Monitoring](https://github.com/fvthima/Patient-Health-Monitoring): Real-Time Patient Health Monitoring using Hidden Markov Models (HMM)
