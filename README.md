@@ -3,11 +3,11 @@
 ### About Me
 I am a dedicated computer science student passionate about leveraging technology to solve complex problems. Currently, I am pursuing my bachelor's degree with a specialization in big data.
 
-- 🔭 I’m currently working on multiple projects related to data science and software development.
-- 🌱 I’m currently learning advanced data analysis techniques and machine learning algorithms.
-- 👯 I’m looking to collaborate on open source projects related to data science and machine learning.
+-  I’m currently working on multiple projects related to data science and software development.
+-  I’m currently learning advanced data analysis techniques and machine learning algorithms.
+- I’m looking to collaborate on open source projects related to data science and machine learning.
 - 💬 Ask me about anything related to R, Python, Java, and SQL.
-- 📫 How to reach me: [Email](mailto:fathimaslp@gmail.com)
+- ✉️ How to reach me: [Email](mailto:fathimaslp@gmail.com)
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/fathimaharis)
 
 ### My Skills
